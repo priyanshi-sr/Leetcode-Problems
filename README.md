@@ -1,2 +1,3 @@
 # Leetcode-Problems
-This Repository is about the problems that i have solved in Leetcode 
+This Repository is about the problems that i have solved in Leetcode .
+By - Priyanshi Srivastava
